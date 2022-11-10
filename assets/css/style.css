@@ -1,0 +1,35 @@
+.header{
+	display:flex;
+	flex-wrap:nowrap;
+	justify-content:space-between;
+	flex-direction:row;
+	align-content:;
+	margin-top:60px;
+}
+.logo{
+	width:60px;
+	height:40px;
+	margin-right:20px;
+}
+.navbar ul li{
+	display:inline;
+}
+.navbar ul li a{
+	margin:10px;
+	text-decoration:none;
+	flex-direction:row;
+	justify-content:space-between;
+
+}
+.image{
+	background-image:url('../images/image-web-3-desktop.jpg');
+	background-size:1000px;
+	width:920px;
+	height:400px;
+	top:25px;
+	padding-left:25px;
+	padding-botto;
+}
+.question b{
+	
+}
